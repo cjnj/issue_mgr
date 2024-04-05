@@ -1,0 +1,31 @@
+/* Custom CSS for styling */
+.navbar {
+    background-color: #007bff; /* Bootstrap primary color */
+}
+
+.navbar-brand {
+    color: #fff; /* White color for text */
+}
+
+.nav-link {
+    color: #fff; /* White color for text */
+}
+
+/* Container style */
+.container {
+    margin-top: 20px; /* Add margin to the top */
+    padding: 20px; /* Add padding to provide space around the content */
+    border-radius: 10px; /* Add border-radius for rounded corners */
+    color: #fff; /* White color for text */
+}
+
+/* Footer style */
+footer {
+    background-color: #007bff; /* Bootstrap primary color */
+    color: #fff; /* White color for text */
+    padding: 10px 0; /* Add padding to top and bottom */
+    position: fixed; /* Fixed position at the bottom */
+    width: 100%; /* Full width */
+    bottom: 0; /* Stick to the bottom */
+    text-align: center; /* Center align text */
+}
